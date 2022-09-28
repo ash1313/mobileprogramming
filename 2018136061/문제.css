@@ -1,0 +1,17 @@
+.img1{
+    width: 100px;
+    height: 100px;
+}
+ul{
+    list-style: none;
+}
+li{
+    float: left;
+}
+th{
+    background-color: orange;
+}
+.img2{
+    width: 100px;
+    height: 50px;
+}
