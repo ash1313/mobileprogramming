@@ -1,0 +1,39 @@
+header{
+
+    border-bottom: 1px solid;
+}
+.top_area{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align:right;
+}
+#mainlogo{
+    justify-content: center;
+    width: 100px;
+    height:30px;
+    margin: 30px auto 30px auto;
+    display: flex;
+}
+#search{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-left-width:0; 
+    border-right-width:0; 
+    border-top-width:0; 
+    border-bottom-width:1;
+    float: right; 
+}
+.bottom_area{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row-reverse
+}
+a:link {
+    color : black;
+    text-decoration-line: none;
+  }
+a:visited{
+    color:black;
+}
